@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: #8a3030;
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/pinkred.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #8a3030;
     border: none;
     font-weight: bold;
 }
